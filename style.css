@@ -8,6 +8,8 @@ Description:    Impakt WordPress theme
 Version:        1.0.0
 License:        GNU General Public License v3.0 (or later)
 License URI:    https://www.gnu.org/licenses/gpl-3.0.html
+GitHub Theme URI: Quick-Release/impakttv-childtheme
+GitHub Theme URI: https://github.com/Quick-Release/impakttv-childtheme
 */
 
 /*
@@ -638,4 +640,10 @@ video {
 
 .custom-logo {
   width: 200px;
+}
+
+.editor-visual-editor {
+  p {
+    color: #fff;
+  }
 }
